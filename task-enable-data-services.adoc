@@ -16,16 +16,16 @@ summary: Une fois que vous avez découvert un système StorageGRID dans BlueXP, 
 [role="lead"]
 Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp pour la sauvegarde et la synchronisation des données.
 
-* Sauvegardez vos données ONTAP sur site dans le stockage objet de vos systèmes NetApp StorageGRID avec *Cloud Backup*.
+* Utilisez la sauvegarde et la restauration BlueXP pour sauvegarder les données de vos systèmes ONTAP sur site vers le stockage objet de vos systèmes NetApp StorageGRID.
 +
-Pour commencer, accédez à la fenêtre Canvas et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.
+Pour commencer, accédez à l'espace de travail BlueXP et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.
 
 +
 https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-private-cloud.html["En savoir plus sur la sauvegarde des données ONTAP sur site dans StorageGRID"^]
 
-* Utilisez *Cloud Sync* pour synchroniser des données vers ou depuis un système StorageGRID.
+* Utilisez la copie et la synchronisation BlueXP pour synchroniser les données depuis ou vers un système StorageGRID.
 +
-Pour commencer, accédez à Canvas et faites glisser et déposez l'environnement de travail source sur l'environnement de travail cible. StorageGRID peut être la source ou la cible.
+Pour commencer, accédez au canevas BlueXP et glissez-déposez l'environnement de travail source sur l'environnement de travail cible. StorageGRID peut être la source ou la cible.
 
 +
 https://docs.netapp.com/us-en/cloud-manager-sync/index.html["En savoir plus sur Cloud Sync"^]

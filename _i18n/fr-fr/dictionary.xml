@@ -23,7 +23,6 @@
   <block id="9ae507836de7475bf9902e01733fe556" category="inline-image-macro">Capture d'écran de l'option Supprimer de l'espace de travail disponible dans le menu supérieur droit de l'environnement de travail.</block>
   <block id="c8e6868d5b00caa06a19765007794f02" category="paragraph"><block ref="c8e6868d5b00caa06a19765007794f02" category="inline-image-macro-rx" type="image"></block></block>
   <block id="40b851aafab82c78484c46169f816fd2" category="list-text">Cliquez sur *Supprimer* pour confirmer.</block>
-  <block id="9f2db88a43e23979b76211bebac90c3c" category="summary">Découvrez vos systèmes StorageGRID via BlueXP (anciennement Cloud Manager) pour bénéficier d'une vue complète des données dans l'ensemble de votre multicloud hybride.</block>
   <block id="3778f3873debfe11e2ace6bb6af1e417" category="doc">Documentation StorageGRID</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Avant d'ouvrir un dossier de demande de support auprès du support technique NetApp, vous devez ajouter un compte sur le site de support NetApp à BlueXP, puis vous inscrire pour bénéficier du support.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">S'inscrire pour obtenir de l'aide</block>
@@ -87,7 +86,6 @@
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
   <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de connaissances</block>
-  <block id="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="list-text"><block ref="fd6bb4fa1ad0caeedd6782d92cc54ea3" category="inline-link-rx"></block></block>
   <block id="9a3db1abe5491d0eb9bb5d125981356c" category="paragraph">Recherchez dans la base de connaissances BlueXP des articles utiles pour résoudre les problèmes.</block>
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Communautés</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
@@ -140,17 +138,12 @@
   <block id="54bd03a569afb098328ca82511616f55" category="summary">Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp avec StorageGRID pour la sauvegarde et la synchronisation des données.</block>
   <block id="4d59e76f3a0fb15954592256790b7f7e" category="doc">Faites confiance aux services de données NetApp avec StorageGRID</block>
   <block id="b88241859cee076fd3a4ddaeda099288" category="paragraph">Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp pour la sauvegarde et la synchronisation des données.</block>
-  <block id="3822be2497c1c1e2e76ff4863e2d510e" category="list-text">Sauvegardez vos données ONTAP sur site dans le stockage objet de vos systèmes NetApp StorageGRID avec *Cloud Backup*.</block>
-  <block id="7e995f90ad07a7b6c4bbd3ebeea051bb" category="paragraph">Pour commencer, accédez à la fenêtre Canvas et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.</block>
   <block id="a4304a5e5ad0523cd1e2516efcbb04ea" category="inline-link">En savoir plus sur la sauvegarde des données ONTAP sur site dans StorageGRID</block>
   <block id="5848e24b55c702b7cc486314cd78f6dc" category="paragraph"><block ref="5848e24b55c702b7cc486314cd78f6dc" category="inline-link-rx"></block></block>
-  <block id="c2c9861dbf50fae669de81ff19a8e714" category="list-text">Utilisez *Cloud Sync* pour synchroniser des données vers ou depuis un système StorageGRID.</block>
-  <block id="d295ee26072b39ec669dd814d31c9a1e" category="paragraph">Pour commencer, accédez à Canvas et faites glisser et déposez l'environnement de travail source sur l'environnement de travail cible. StorageGRID peut être la source ou la cible.</block>
   <block id="c9e8b2e7aec1baa65efcbe84dfc9d0ed" category="inline-link">En savoir plus sur Cloud Sync</block>
   <block id="fcea636cb0627956ef5da173e7e82e53" category="paragraph"><block ref="fcea636cb0627956ef5da173e7e82e53" category="inline-link-rx"></block></block>
   <block id="c99454978b70ce8c05ee8d05b1e2aaaf" category="summary">Découvrez les nouveautés de la gestion des systèmes StorageGRID dans BlueXP.</block>
   <block id="a39b0065ec636bbdd671213be9d343f4" category="doc">Quelles sont les nouveautés de la gestion StorageGRID</block>
-  <block id="24c8fc3b4b2e095dbd61ec785ac478ec" category="paragraph">Découvrez les nouveautés de la gestion des systèmes StorageGRID dans BlueXP (anciennement Cloud Manager).</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 septembre 2022</block>
   <block id="dc8bb8905a6984d0c45a4ada9e618ace" category="section-title">Prise en charge de StorageGRID</block>
   <block id="0b17baeba205d071cc0142cf4aba9b76" category="paragraph">Vous pouvez désormais découvrir vos systèmes StorageGRID directement depuis BlueXP. La découverte de StorageGRID vous offre une vue complète sur les données dans l'ensemble de votre environnement multicloud hybride.</block>
@@ -168,8 +161,6 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Source ouverte</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Les fichiers de notification fournissent des informations sur les droits d'auteur et les licences de tiers utilisés dans le logiciel NetApp.</block>
-  <block id="bcb152582247346e2f453fce02c1fc3c" category="inline-link-macro">Notice pour BlueXP 3.9</block>
-  <block id="03f975e839e4278228720a5d19656288" category="list-text"><block ref="03f975e839e4278228720a5d19656288" category="inline-link-macro-rx"></block></block>
   <block id="67d5dc044866a0ff55b817d754d94a3e" category="sidebar">Documentation StorageGRID</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notes de mise à jour</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Commencez</block>
@@ -249,4 +240,12 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Pièce jointe (facultatif)* : téléchargez jusqu'à cinq pièces jointes, une à la fois.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Les pièces jointes sont limitées à 25 Mo par fichier. Les extensions de fichier suivantes sont prises en charge : txt, log, PDF, jpg/JPEG, rtf, doc/docx, xls/xlsx et csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Mettre à jour les notes de cas* : fournir des détails supplémentaires sur votre problème ou sélectionner *Télécharger les fichiers* pour joindre jusqu'à cinq fichiers.</block>
+  <block id="883eef4b617ed29c6215037626df7b5e" category="summary">Découvrez vos systèmes StorageGRID via BlueXP pour bénéficier d'une vue complète des données dans l'ensemble de votre multicloud hybride.</block>
+  <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
+  <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Note pour BlueXP</block>
+  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
+  <block id="562a1ca3f27bbce8f867c759f82d02dc" category="list-text">Utilisez la sauvegarde et la restauration BlueXP pour sauvegarder les données de vos systèmes ONTAP sur site vers le stockage objet de vos systèmes NetApp StorageGRID.</block>
+  <block id="ead1951b53a3b76661043b6bf5ff1b48" category="paragraph">Pour commencer, accédez à l'espace de travail BlueXP et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.</block>
+  <block id="b99ff865a132e7a6116d680732bd74a1" category="list-text">Utilisez la copie et la synchronisation BlueXP pour synchroniser les données depuis ou vers un système StorageGRID.</block>
+  <block id="e1bb8de567622bad90039f45af7d579c" category="paragraph">Pour commencer, accédez au canevas BlueXP et glissez-déposez l'environnement de travail source sur l'environnement de travail cible. StorageGRID peut être la source ou la cible.</block>
 </blocks>
