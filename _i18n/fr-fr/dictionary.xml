@@ -140,8 +140,6 @@
   <block id="b88241859cee076fd3a4ddaeda099288" category="paragraph">Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp pour la sauvegarde et la synchronisation des données.</block>
   <block id="a4304a5e5ad0523cd1e2516efcbb04ea" category="inline-link">En savoir plus sur la sauvegarde des données ONTAP sur site dans StorageGRID</block>
   <block id="5848e24b55c702b7cc486314cd78f6dc" category="paragraph"><block ref="5848e24b55c702b7cc486314cd78f6dc" category="inline-link-rx"></block></block>
-  <block id="c9e8b2e7aec1baa65efcbe84dfc9d0ed" category="inline-link">En savoir plus sur Cloud Sync</block>
-  <block id="fcea636cb0627956ef5da173e7e82e53" category="paragraph"><block ref="fcea636cb0627956ef5da173e7e82e53" category="inline-link-rx"></block></block>
   <block id="c99454978b70ce8c05ee8d05b1e2aaaf" category="summary">Découvrez les nouveautés de la gestion des systèmes StorageGRID dans BlueXP.</block>
   <block id="a39b0065ec636bbdd671213be9d343f4" category="doc">Quelles sont les nouveautés de la gestion StorageGRID</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 septembre 2022</block>
@@ -248,4 +246,6 @@
   <block id="ead1951b53a3b76661043b6bf5ff1b48" category="paragraph">Pour commencer, accédez à l'espace de travail BlueXP et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.</block>
   <block id="b99ff865a132e7a6116d680732bd74a1" category="list-text">Utilisez la copie et la synchronisation BlueXP pour synchroniser les données depuis ou vers un système StorageGRID.</block>
   <block id="e1bb8de567622bad90039f45af7d579c" category="paragraph">Pour commencer, accédez au canevas BlueXP et glissez-déposez l'environnement de travail source sur l'environnement de travail cible. StorageGRID peut être la source ou la cible.</block>
+  <block id="29a7b2441d86b88dc7b6b010d54ea1ea" category="inline-link">En savoir plus sur la copie et la synchronisation BlueXP</block>
+  <block id="e3e2362086f7a7cbdf71923245788646" category="paragraph"><block ref="e3e2362086f7a7cbdf71923245788646" category="inline-link-rx"></block></block>
 </blocks>
