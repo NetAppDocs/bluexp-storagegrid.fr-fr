@@ -16,7 +16,8 @@ summary: Une fois que vous avez découvert vos systèmes StorageGRID, vous pouve
 Une fois que vous avez découvert vos systèmes StorageGRID, vous pouvez consulter des informations détaillées sur la distribution de la capacité ainsi que les alertes, nœuds et locataires associés.
 
 .Étapes
-. Dans la zone de travail, double-cliquez sur le nom de l'environnement de travail StorageGRID que vous souhaitez afficher.
+. Dans le menu de navigation, sélectionnez *stockage > Canvas*.
+. Sur la page Canevas, sélectionnez l'environnement de travail StorageGRID que vous souhaitez afficher.
 . Sélectionnez l'un des onglets pour afficher plus d'informations sur votre système StorageGRID :
 +
 ** *Présentation* : vue détaillée de la distribution de la capacité du système (capacité utilisée et capacité libre), du nombre d'alertes système, de nœuds et de locataires, et plus encore.

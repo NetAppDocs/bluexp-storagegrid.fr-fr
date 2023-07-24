@@ -19,10 +19,11 @@ Supprimez un environnement de travail StorageGRID si vous ne souhaitez plus le g
 La suppression de l'environnement de travail n'affecte pas le système StorageGRID. Vous pouvez le redécouvrir depuis BlueXP à tout moment.
 
 .Étapes
-. Dans la zone de travail, double-cliquez sur le nom de l'environnement de travail StorageGRID.
-. Cliquez sur l'icône de menu et sélectionnez *Supprimer de l'espace de travail*.
+. Dans le menu de navigation, sélectionnez *stockage > Canvas*.
+. Sur la page Canevas, sélectionnez l'environnement de travail StorageGRID.
+. Sélectionnez l'icône de menu et sélectionnez *Supprimer de l'espace de travail*.
 +
 image:screenshot-remove.png["Capture d'écran de l'option Supprimer de l'espace de travail disponible dans le menu supérieur droit de l'environnement de travail."]
 
-. Cliquez sur *Supprimer* pour confirmer.
+. Sélectionnez *Supprimer* pour confirmer.
 
