@@ -10,6 +10,7 @@ summary: 'NetApp prend en charge BlueXP de plusieurs façons. De nombreuses opti
 :imagesdir: ../media/
 
 
+[role="lead"]
 NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.
 
 

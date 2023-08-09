@@ -13,6 +13,7 @@ summary: Une fois que vous avez découvert vos systèmes StorageGRID, vous pouve
 :imagesdir: ./media/
 
 
+[role="lead"]
 Une fois que vous avez découvert vos systèmes StorageGRID, vous pouvez consulter des informations détaillées sur la distribution de la capacité ainsi que les alertes, nœuds et locataires associés.
 
 .Étapes

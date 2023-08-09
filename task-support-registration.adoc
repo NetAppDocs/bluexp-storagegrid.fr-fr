@@ -10,6 +10,7 @@ summary: 'Avant d"ouvrir un dossier de demande de support auprès du support tec
 :imagesdir: ../media/
 
 
+[role="lead"]
 L'enregistrement du support est requis pour votre compte BlueXP et pour chaque système Cloud Volumes ONTAP.
 
 
