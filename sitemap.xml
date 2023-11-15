@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/</loc>
+      
+      <lastmod>2023-11-15T17:48:36+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/legal-notices.html</loc>
+      
+      <lastmod>2023-08-09T13:47:58+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid//search.html</loc>
+      
+      <lastmod>2023-11-15T17:48:52+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-discover-storagegrid.html</loc>
+      
+      <lastmod>2023-10-20T19:23:07+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-enable-data-services.html</loc>
+      
+      <lastmod>2023-05-31T15:19:23+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-get-help.html</loc>
+      
+      <lastmod>2023-10-03T18:30:32+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-remove-storagegrid.html</loc>
+      
+      <lastmod>2023-07-24T21:42:28+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-support-registration.html</loc>
+      
+      <lastmod>2023-10-03T18:30:32+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/task-view-storagegrid.html</loc>
+      
+      <lastmod>2023-08-09T13:47:58+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/fr-fr/bluexp-storagegrid/whats-new.html</loc>
+      
+      <lastmod>2023-04-20T01:09:30+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
