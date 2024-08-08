@@ -21,7 +21,7 @@ La suppression de l'environnement de travail n'affecte pas le système StorageGR
 .Étapes
 . Dans le menu de navigation, sélectionnez *stockage > Canvas*.
 . Sur la page Canevas, sélectionnez l'environnement de travail StorageGRID.
-. Sélectionnez l'icône de menu et sélectionnez *Supprimer de l'espace de travail*.
+. Dans la vue standard, sélectionnez l'icône de menu et sélectionnez *Supprimer de l'espace de travail*.
 +
 image:screenshot-remove.png["Capture d'écran de l'option Supprimer de l'espace de travail disponible dans le menu supérieur droit de l'environnement de travail."]
 

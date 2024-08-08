@@ -1,0 +1,136 @@
+---
+sidebar: sidebar 
+permalink: task-administer-storagegrid.html 
+keywords: grid manager, advanced view, standard view, use grid manager, gridmanager 
+summary: 'Administrer un système StorageGRID depuis BlueXP  en utilisant la vue avancée. Cette vue vous permet d"utiliser le Gestionnaire de grille à partir de l"environnement de travail StorageGRID.' 
+---
+= Administrer StorageGRID à l'aide de la vue avancée
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Administrer un système StorageGRID depuis BlueXP  en utilisant la vue avancée. Cette vue vous permet d'utiliser le Gestionnaire de grille à partir de l'environnement de travail StorageGRID.
+
+
+
+== Configurations compatibles
+
+Grid Manager est disponible dans BlueXP  à partir de StorageGRID 11.8.
+
+
+
+== Limites
+
+Les opérations suivantes du gestionnaire de grille ne sont pas disponibles dans BlueXP . Si vous devez effectuer ces opérations, connectez-vous directement au gestionnaire de grille.
+
+[cols="1a,2a"]
+|===
+| Menu Gestionnaire de grille | Opérations non disponibles dans BlueXP  
+
+
+ a| 
+Utilisateur
+ a| 
+* Lien de déconnexion
+* Lien vers la documentation de l'API
+* Modifier le mot de passe
+
+
+
+
+ a| 
+Nœuds
+ a| 
+* Vous ne pouvez pas accéder à SANtricity System Manager depuis l'onglet nœuds > Gestionnaire système SANtricity.
+* Lors de l'affichage des alertes, vous ne pourrez peut-être pas sélectionner tous les liens dans les actions recommandées. Par exemple, les liens qui vont aux pages Grid Manager non prises en charge ne fonctionneront pas.
+
+
+
+
+ a| 
+Locataires
+ a| 
+Vous ne pouvez pas vous connecter à un compte de locataire à partir de l'assistant Créer un locataire ou de la page locataires.
+
+BlueXP  ne prend pas actuellement en charge le gestionnaire de locataires. Bien que vous puissiez créer de nouveaux comptes de locataires à partir de BlueXP , les utilisateurs de locataires ne peuvent pas se connecter à leurs comptes à partir de BlueXP .
+
+
+
+ a| 
+ILM
+ a| 
+Lien vers les niveaux de stockage
+
+
+
+ a| 
+Configuration
+ a| 
+* Mots de passe de grille
+* Classification du trafic > métriques
+* Paramètres de sécurité > délai d'inactivité du navigateur
+* Authentification unique
+* Agent SNMP > fichier MIB pour l'interface BMC
+
+
+
+
+ a| 
+Maintenance
+ a| 
+* Package de restauration
+* Mise à jour logicielle
+
+
+
+
+ a| 
+Assistance
+ a| 
+* Topologie de grille
+* Journaux
+* Metrics, y compris tous les liens vers les metrics Prometheus et les tableaux de bord Grafana à partir d'autres emplacements de l'interface utilisateur.
+* Toutes les options pour les alarmes héritées
+* Coût des liens
+* Entités NMS
+
+
+|===
+
+
+== Passer à la vue avancée
+
+Ouvrez un environnement de travail StorageGRID et sélectionnez l'option vue avancée.
+
+.Étapes
+. Dans la page Canevas, ouvrez l'environnement de travail StorageGRID.
+. En haut à droite, sélectionnez *basculer vers la vue avancée*.
++
+image:screenshot-advanced-view.png["Capture d'écran d'un environnement de travail StorageGRID montrant l'option basculer vers l'affichage avancé."]
+
+. Utilisez le Gestionnaire de grille pour gérer le système StorageGRID.
++
+Vous devez savoir que le menu aide de Grid Manager a été remplacé par le menu suivant :
+
++
+image:advanced-view-menu.png["Capture d'écran d'un environnement de travail StorageGRID où un menu d'action est disponible en haut à droite de l'écran."]
+
++
+Toutes les mêmes options d'aide sont disponibles à partir de ce menu, à l'exception du lien de documentation de l'API.
+
+. Si nécessaire, sélectionnez basculer vers la vue standard pour revenir à la vue standard via BlueXP .
++
+image:screenshot-standard-view.png["Capture d'écran d'un environnement de travail StorageGRID montrant l'option basculer vers l'affichage standard."]
+
+
+
+
+
+== Obtenez de l'aide avec Grid Manager
+
+Si vous avez besoin d'aide pour utiliser Grid Manager, reportez-vous à la section https://docs.netapp.com/us-en/storagegrid-118/admin/index.html["Documentation StorageGRID"^] pour obtenir des instructions détaillées.

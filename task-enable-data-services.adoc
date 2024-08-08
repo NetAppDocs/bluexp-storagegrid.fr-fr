@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: task-enable-data-services.html 
-keywords: storagegrid, cloud sync, cloud backup, backup, back up data 
-summary: Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp avec StorageGRID pour la sauvegarde et la synchronisation des données. 
+keywords: storagegrid, cloud sync, cloud backup, backup, back up data, tier data, data tiering, tiering to storagegrid 
+summary: Une fois que vous avez identifié un système StorageGRID dans BlueXP , vous pouvez utiliser les services de données de NetApp pour les sauvegardes, le Tiering des données et la synchronisation des données. 
 ---
 = Faites confiance aux services de données NetApp avec StorageGRID
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Une fois que vous avez découvert un système StorageGRID dans BlueXP, 
 
 
 [role="lead"]
-Une fois que vous avez découvert un système StorageGRID dans BlueXP, vous pouvez utiliser les services de données de NetApp pour la sauvegarde et la synchronisation des données.
+Une fois que vous avez identifié un système StorageGRID dans BlueXP , vous pouvez utiliser les services de données de NetApp pour les sauvegardes, le Tiering des données et la synchronisation des données.
 
 * Utilisez la sauvegarde et la restauration BlueXP pour sauvegarder les données de vos systèmes ONTAP sur site vers le stockage objet de vos systèmes NetApp StorageGRID.
 +
@@ -22,6 +22,13 @@ Pour commencer, accédez à l'espace de travail BlueXP et glissez-déposez un en
 
 +
 https://docs.netapp.com/us-en/bluexp-backup-recovery/task-backup-onprem-private-cloud.html["En savoir plus sur la sauvegarde des données ONTAP sur site dans StorageGRID"^]
+
+* Utilisez le Tiering BlueXP  pour hiérarchiser automatiquement les données inactives des clusters ONTAP sur site vers StorageGRID.
++
+Pour commencer, accédez à l'espace de travail BlueXP et glissez-déposez un environnement de travail ONTAP sur site dans votre environnement de travail StorageGRID.
+
++
+https://docs.netapp.com/us-en/bluexp-tiering/task-tiering-onprem-storagegrid.html["En savoir plus sur le Tiering des données à partir des clusters ONTAP sur site vers StorageGRID"^]
 
 * Utilisez la copie et la synchronisation BlueXP pour synchroniser les données depuis ou vers un système StorageGRID.
 +
