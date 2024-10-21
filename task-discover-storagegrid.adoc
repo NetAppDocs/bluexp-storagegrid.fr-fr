@@ -19,7 +19,10 @@ Découvrez les systèmes StorageGRID dans votre environnement sur site, puis gé
 .Avant de commencer
 Il faut les éléments suivants :
 
-* Connecteur installé dans un fournisseur cloud ou sur site, avec connectivité réseau au système StorageGRID.
+* Un connecteur exécutant la version 3.9.43 ou ultérieure avec une connectivité réseau au système StorageGRID.
++
+Le connecteur peut résider dans le cloud ou sur site. Une connexion réseau au système StorageGRID est nécessaire.
+
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["En savoir plus sur les connecteurs et comment en créer un"^]
 
