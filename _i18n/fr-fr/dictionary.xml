@@ -362,6 +362,7 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">L'association des informations d'identification du site de support NetApp à votre organisation BlueXP  est nécessaire pour activer les flux de travail clés suivants pour Cloud Volumes ONTAP :</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'association des informations d'identification NSS à votre organisation BlueXP  est différente du compte NSS associé à une connexion utilisateur BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Ces informations d'identification NSS sont associées à votre identifiant d'organisation BlueXP  spécifique. Les utilisateurs qui appartiennent à l'organisation BlueXP  peuvent accéder à ces informations d'identification à partir de *support &gt; gestion NSS*.</block>
-  <block id="812698067d3edfc405bb07423d81be18" category="list-text">Un connecteur exécutant la version 3.9.43 ou ultérieure avec une connectivité réseau au système StorageGRID.</block>
   <block id="9c0e98fb28f894724e92772753a585bc" category="paragraph">Le connecteur peut résider dans le cloud ou sur site. Une connexion réseau au système StorageGRID est nécessaire.</block>
+  <block id="db188d9c1fa3be7f6644057e551033c7" category="list-text">Une nouvelle installation du connecteur à l'aide de la version 3.9.43 ou ultérieure.</block>
+  <block id="dc8d4eccfd0e6edfd9b12eab22e1dda9" category="list-text">Connectivité réseau entre le connecteur et le système StorageGRID.</block>
 </blocks>

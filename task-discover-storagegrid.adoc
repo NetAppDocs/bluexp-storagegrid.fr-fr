@@ -19,7 +19,8 @@ Découvrez les systèmes StorageGRID dans votre environnement sur site, puis gé
 .Avant de commencer
 Il faut les éléments suivants :
 
-* Un connecteur exécutant la version 3.9.43 ou ultérieure avec une connectivité réseau au système StorageGRID.
+* Une nouvelle installation du connecteur à l'aide de la version 3.9.43 ou ultérieure.
+* Connectivité réseau entre le connecteur et le système StorageGRID.
 +
 Le connecteur peut résider dans le cloud ou sur site. Une connexion réseau au système StorageGRID est nécessaire.
 
