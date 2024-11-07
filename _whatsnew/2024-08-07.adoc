@@ -1,0 +1,19 @@
+= Nouvelle vue avancée
+:allow-uri-read: 
+
+
+
+
+=== Nouvelle vue avancée
+
+À partir de StorageGRID 11.8, vous pouvez utiliser l'interface familière du Gestionnaire de grille pour gérer votre système StorageGRID à partir de BlueXP .
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-administer-storagegrid.html["Découvrez comment gérer StorageGRID à l'aide de la vue avancée"].
+
+
+
+=== Possibilité d'examiner et d'approuver le certificat d'interface de gestion StorageGRID
+
+Vous avez désormais la possibilité d'examiner et d'approuver un certificat d'interface de gestion StorageGRID lors de la découverte du système StorageGRID à partir de BlueXP . Vous pouvez également vérifier et approuver le dernier certificat d'interface de gestion StorageGRID sur une grille découverte.
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-discover-storagegrid.html["Découvrez comment vérifier et approuver le certificat du serveur lors de la découverte du système."]
