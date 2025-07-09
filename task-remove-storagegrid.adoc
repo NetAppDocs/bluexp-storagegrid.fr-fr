@@ -16,6 +16,9 @@ summary: Supprimez un environnement de travail StorageGRID si vous ne souhaitez 
 [role="lead"]
 Supprimez un environnement de travail StorageGRID si vous ne souhaitez plus le gérer depuis BlueXP.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet ou administrateur de stockage. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 La suppression de l'environnement de travail n'affecte pas le système StorageGRID. Vous pouvez le redécouvrir depuis BlueXP à tout moment.
 
 .Étapes

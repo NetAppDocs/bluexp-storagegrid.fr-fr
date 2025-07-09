@@ -16,6 +16,9 @@ summary: 'Comme les certificats peuvent expirer, vous devrez peut-être parfois 
 [role="lead"]
 Votre système StorageGRID doit disposer d'un certificat d'interface de gestion avant de détecter le système à partir de BlueXP . Le certificat fournit une connexion sécurisée entre BlueXP  et StorageGRID. Comme les certificats peuvent expirer, vous devrez peut-être parfois afficher l'état ou mettre à jour un certificat.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet ou administrateur de stockage. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 
 
 == Afficher le statut d'un certificat d'interface de gestion

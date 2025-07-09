@@ -16,6 +16,9 @@ summary: Une fois que vous avez découvert vos systèmes StorageGRID, vous pouve
 [role="lead"]
 Une fois que vous avez découvert vos systèmes StorageGRID, vous pouvez consulter des informations détaillées sur la distribution de la capacité ainsi que les alertes, nœuds et locataires associés.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 .Étapes
 . Dans le menu de navigation, sélectionnez *stockage > Canvas*.
 . Sur la page Canevas, sélectionnez l'environnement de travail StorageGRID que vous souhaitez afficher.
